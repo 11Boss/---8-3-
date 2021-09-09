@@ -6,4 +6,5 @@
 generate_result.py 生成结果的 
 配置文件在config里面
 训练的时候配合调参
+checkpoint在训练中没有去保存
 
