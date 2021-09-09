@@ -23,3 +23,7 @@ for i ,content in enumerate(path_list):
         val_f.write(text)
 train_f.close()
 val_f.close()
+
+
+    
+    
