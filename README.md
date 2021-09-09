@@ -7,4 +7,5 @@ generate_result.py 生成结果的
 配置文件在config里面
 训练的时候配合调参
 checkpoint在训练中没有去保存
+在unet下采样过程中，加入se部分或者加入simam无参注意力做对比
 
